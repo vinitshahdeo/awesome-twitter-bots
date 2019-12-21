@@ -77,6 +77,7 @@ To the extent possible under law, [Aman Mittal][aman-github] has waived all copy
 [jo-bot-twitter]: https://twitter.com/bot_javierojeda
 [fif00-bot-repo]: https://github.com/FiF0o/twitterapp
 [fif00-bot-twitter]: https://twitterapp-kxtpaplvot.now.sh/
+[Quotter]: https://github.com/vinitshahdeo/Quotter/
 
 
 <!--License-->
